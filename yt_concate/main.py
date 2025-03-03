@@ -6,7 +6,6 @@ CHANNEL_ID = 'UCBFA9P66jbOH-tHY7azdr3w'
 
 
 def get_all_video_in_channel(channel_id):
-    api_key = 'AIzaSyBSjGqdcniesAQIkI_1RPSnm8hCSg5r7RM'
 
     base_video_url = 'https://www.youtube.com/watch?v='
     base_search_url = 'https://www.googleapis.com/youtube/v3/search?'
